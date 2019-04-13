@@ -1,20 +1,22 @@
 {
-  "name": "pwa-complete-guide",
+  "name": "booops",
   "version": "1.0.0",
-  "description": "A complete guide to PWAs. Building a simple Instagram clone.",
+  "description": "A photo sharing app for your bestest friends",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1"
   },
   "keywords": [
-    "pwa",
-    "progressive",
+    "booops",
+    "boops",
     "web",
     "app",
-    "complete",
-    "tutorial"
+    "instagram",
+    "dogs",
+    "cats",
+    "tumblr"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Dresdain Balangue",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.10.0"
