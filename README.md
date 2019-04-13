@@ -1,2 +1,2 @@
 # booops
-An instagram-like experience for your bestest friend
+An instagram-like experience for your bestest friends 🐾
